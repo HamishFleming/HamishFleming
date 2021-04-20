@@ -1,4 +1,4 @@
-![Header] (https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif)
+![Header](https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif)
 ### Hi there 👋
 
 # Coming Soon
