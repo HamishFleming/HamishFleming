@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Coming Soon
+- Public 'Portfolio-esque' projects to be listed here
+- Links to my Personal Blog
+
 <!--
 **HamishFleming/HamishFleming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
