@@ -6,8 +6,8 @@
 
 ## Websites (To Be Expanded Over The next few weeks)
 - [Go Space](https://gospace.com.au) -- My 'Freelancing' Site
-- [My Website](www.hamish-fleming.com)  -- To Be Overhauled and updated in the coming months
-- [Aftershock Australia](rts.aftershockpc.com.au) -- Shopify Store
+- [My Website](http://www.hamish-fleming.com)  -- To Be Overhauled and updated in the coming months
+- [Aftershock Australia](https://rts.aftershockpc.com.au) -- Shopify Store
 
 ## Repositories
 - [REACT Twitter Clone](https://github.com/HamishFleming/Twitter-Clone-Portfolio-Piece)  -- A weekend project using React and Firebase
