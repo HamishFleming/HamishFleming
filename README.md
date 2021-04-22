@@ -3,13 +3,21 @@
 
 
 # Portfolio Pieces
-- [REACT Twitter Clone](https://github.com/HamishFleming/Twitter-Clone-Portfolio-Piece)
+
+## Websites (To Be Expanded Over The next few weeks)
+- [Go Space](www.gospace.com.au) -- My 'Freelancing' Site
+- [My Website](www.hamish-fleming.com)  -- To Be Overhauled and updated in the coming months
+- [Aftershock Australia](rts.aftershockpc.com.au) --Shopify Store
+
+## Repositories
+- [REACT Twitter Clone](https://github.com/HamishFleming/Twitter-Clone-Portfolio-Piece)  -- A weekend project using React and Firebase
+- [Sneaky js Attention Grabber](https://github.com/HamishFleming/Second-Favourite-Icon) -- Pavlov you  have done it again 
 
 
 ### Coming Soon
 - Public 'Portfolio-esque' projects to be listed here
 - Links to my Personal Blog
-- Cleaned up public Release of .dotfiles
+- Cleaned up public Release of .dotfiles and .bin sh scripts
 
 
 
