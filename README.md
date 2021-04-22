@@ -5,7 +5,7 @@
 # Portfolio Pieces
 
 ## Websites (To Be Expanded Over The next few weeks)
-- [Go Space](https://www.gospace.com.au) -- My 'Freelancing' Site
+- [Go Space](https://gospace.com.au) -- My 'Freelancing' Site
 - [My Website](www.hamish-fleming.com)  -- To Be Overhauled and updated in the coming months
 - [Aftershock Australia](rts.aftershockpc.com.au) -- Shopify Store
 
