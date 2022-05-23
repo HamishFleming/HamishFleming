@@ -6,8 +6,8 @@ It's been a while....
 # Portfolio Pieces
 
 ## Websites (To Be Expanded Over The next few weeks)
-- [Go Space](https://gospace.com.au) -- My 'Freelancing' Site
-- [My Blog](http://www.hamish-fleming.com)  -- To Be updated in the coming months
+- [Go Space](https://gospace.com.au) -- My 'Freelancing' Site | Fallen to the wayside for now
+- [My Blog](http://www.hamish-fleming.com)  -- To Be updated in the coming months | coming "soon"^TM
 <!-- 
 [Aftershock Australia](https://rts.aftershockpc.com.au) -- Shopify Store
 -->
