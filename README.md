@@ -15,6 +15,7 @@ It's been a while....
 - [REACT Twitter Clone](https://github.com/HamishFleming/Twitter-Clone-Portfolio-Piece)  -- A weekend project using React and Firebase - Still live on firebase aparently... I hope I'm not paying for it 
 - [Sneaky js Attention Grabber](https://github.com/HamishFleming/Second-Favourite-Icon) -- Pavlov you  have done it again 
 - [Daily Coding Challenges](https://github.com/HamishFleming/DailyCodingChallenge) -- I'll be tackling F.A.A.N.G. interview coding challenges (hopefully) daily 
+- [AWS CloudFormation Templates](https://github.com/HamishFleming/AWS-CloudFormation-Templates) -- [WIP] A Dump of CloudFormation Templates 
 
 ### Coming Soon
 - Public 'Portfolio-esque' projects to be listed here
