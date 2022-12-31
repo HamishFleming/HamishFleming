@@ -16,28 +16,31 @@
 <br/>
 <!-- 110f18 -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamishfleming&currStreakNum=61ffca&hide_border=false&border=8464c6&background=110f18&sideLabels=adbac7&stroke=adbac7&ring=6319e5&fire=61ffca&sideNums=61ffca&currStreakLabel=61ffca&dates=6319e5)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=hamishFleming&show_icons=true&include_all_commits=true&count_private=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=110f18)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamishfleming&currStreakNum=61ffca&hide_border=false&border=8464c6&background=000&sideLabels=adbac7&stroke=adbac7&ring=6319e5&fire=61ffca&sideNums=61ffca&currStreakLabel=61ffca&dates=6319e5)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=hamishFleming&show_icons=true&include_all_commits=true&count_private=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=000)<br/>
+ <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamishfleming&t&show_icons=true&include_all_commits=true&count_private=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=110f18&layout=compact) -->
 
-## <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamishfleming&t&show_icons=true&include_all_commits=true&count_private=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=110f18&layout=compact) -->
+![Neovim](https://img.shields.io/badge/NeoVim-%23000.svg?&style=for-the-badge&logo=neovim&logoColor=61ffca&textColor=110f18)
+![Arch](https://img.shields.io/badge/Arch%20Linux-000?logo=arch-linux&logoColor=61ffca&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=61ffca)
+![Git](https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=61ffca)
+</div><br/>
 
-<hr>
 
-</div>
 
 <!--
   </p>
 </details> -->
-<details open>
-  <summary>
+  <!-- <summary>
   <h2 align=center>🚧 What I'm Currently Working On:</h2>
-  </summary>
+  </summary> -->
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HamishFleming&repo=HamishFleming&show_owner=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=110f18)]('/')
+## 🚧 What I'm Currently Working On:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HamishFleming&repo=HamishFleming&show_owner=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=000)]('/')
 
 </div>
-</details>
 
 <details closed>
   <summary><h2>💻 My Current Tech Stack:</h2></summary>
@@ -251,10 +254,34 @@ No Activity tracked this Week
 
   </p>
 </details>
+<style>
+	  .github-profile-trophy {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+  }
+  .container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: black !important;
+  }
+  </style>
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in)
+<div class='container'>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&animation=grow_out_in&bg_color=0000)
+
+</div>
+
+
+![](https://pagespeed-insights.herokuapp.com?url=blog.hamish-fleming.com)
+
 
 ---
 
