@@ -40,6 +40,14 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HamishFleming&repo=HamishFleming&show_owner=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=000)]('/')
 
+<details open>
+<summary>
+<h2 align=center>🎧 What I'm Currently Listening To:</h2>
+</summary>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=default&show_offline=false&background_color=000&bar_color=630fb8)](https://github.com/kittinan/spotify-github-profile)
+</details>
+
 </div>
 
 <details closed>
