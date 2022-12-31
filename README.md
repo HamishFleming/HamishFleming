@@ -169,13 +169,12 @@
   <p>
 
 <!-- BLOG-POST-LIST:START -->
-
-- [How to use the .NET Core CLI to create a new solution](https://dev.to/hamishfleming/how-to-use-the-net-core-cli-to-create-a-new-solution-4g1e)
-- [How to use the .NET Core CLI to create a new solution](https://dev.to/hamishfleming/how-to-use-the-net-core-cli-to-create-a-new-solution-4g1e)
-- [How to use the .NET Core CLI to create a new solution](https://dev.to/hamishfleming/how-to-use-the-net-core-cli-to-create-a-new-solution-4g1e)
-- [How to use the .NET Core CLI to create a new solution](https://dev.to/hamishfleming/how-to-use-the-net-core-cli-to-create-a-new-solution-4g1e)
-- [How to use the .NET Core CLI to create a new solution](https://dev.to/hamishfleming/how-to-use-the-net-core-cli-to-create-a-new-solution-4g1e)
-  <!-- BLOG-POST-LIST:END -->
+- [Setting Up a Ga4 Tag on Hugo](https://blog.hamish-fleming.com/2022/12/setting-up-a-ga4-tag-on-hugo/)
+- [How to Set up PiHole with Docker on your Home Network](https://blog.hamish-fleming.com/2022/08/how-to-set-up-pihole-with-docker-on-your-home-network/)
+- [How to Set up a Sticky YouTube Player In Awesome WM](https://blog.hamish-fleming.com/2022/06/how-to-set-up-a-sticky-youtube-player-in-awesome-wm/)
+- [Deploying a Hugo Site To GoDaddy Shared Hosting](https://blog.hamish-fleming.com/2021/04/deploying-a-hugo-site-to-godaddy-shared-hosting/)
+- [Github Projects](https://blog.hamish-fleming.com/projects/github/)
+<!-- BLOG-POST-LIST:END -->
 
     </p>
   </details>
