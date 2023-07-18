@@ -177,11 +177,11 @@
   <p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hashicorp Vault for Bulletproof Security](https://blog.hamish-fleming.com/2023/07/hashicorp-vault-for-bulletproof-security/)
 - [Self Hosted Comment Solution](https://blog.hamish-fleming.com/2023/06/self-hosted-comment-solution/)
 - [Create Your Own Certificate Authority for Traefik SSL using Step CA](https://blog.hamish-fleming.com/2023/01/create-your-own-certificate-authority-for-traefik-ssl-using-step-ca/)
 - [Setting Up a Ga4 Tag on Hugo](https://blog.hamish-fleming.com/2022/12/setting-up-a-ga4-tag-on-hugo/)
 - [How to Set up PiHole with Docker on your Home Network](https://blog.hamish-fleming.com/2022/08/how-to-set-up-pihole-with-docker-on-your-home-network/)
-- [How to Set up a Sticky YouTube Player In Awesome WM](https://blog.hamish-fleming.com/2022/06/how-to-set-up-a-sticky-youtube-player-in-awesome-wm/)
 <!-- BLOG-POST-LIST:END -->
 
     </p>
