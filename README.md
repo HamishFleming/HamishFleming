@@ -27,6 +27,7 @@
  <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamishfleming&t&show_icons=true&include_all_commits=true&count_private=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=110f18&layout=compact) -->
 
 <br/>
+<br/>
 
 <table>
 <tr>
@@ -43,6 +44,9 @@
 
 </div>
 <!-- </div> -->
+
+<br/>
+<br/>
 
 ---
 
