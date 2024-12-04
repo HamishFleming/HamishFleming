@@ -139,7 +139,7 @@ No Activity tracked this Week
 <!-- Contact Me Section -->
 
 <br/>
-<a href="https://links.hamish-fleming.com">
+<a href="https://links.hamish-fleming.com/@hamish">
 <h3 align=center style="color:white;">All My Links:</h3>
 
   [<img height="90px" align="center" src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/logo/svg/logo_animated.svg">](https://links.hamish-fleming.com)
