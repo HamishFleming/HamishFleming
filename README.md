@@ -7,7 +7,6 @@
 <a href="https://twitter.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=6319e5&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=6319e5" style="vertical-align:center" /></a></p>
-
 <!-- # 💫 About Me:
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
