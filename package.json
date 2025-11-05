@@ -1,0 +1,23 @@
+{
+  "name": "hamishfleming",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> Hi 👋🏻, I'm Hamish </br></h1>\r <p align=\"center\">I Can never think of Subtitles! ⚡</p>\r <p align=\"center\">Prnding updating both this and my blog subtitle 🚀</p>\r <p align=\"center\">\r  <a href=\"https://www.buymeacoffee.com/\" target=\"_blank\"><img alt=\"\" src=\"https://img.shields.io/badge/kawfee-61ffca?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000\" style=\"vertical-align:center\" /></a>\r  <a href=\"https://youtube.com\" target=\"_blank\"><img alt=\"\" src=\"https://img.shields.io/badge/Youtube-000?logo=youtube&logoColor=6319e5&style=for-the-badge\" style=\"vertical-align:center\" /></a>\r <a href=\"https://twitter.com/\" target=\"_blank\"><img alt=\"\" src=\"https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=6319e5&style=for-the-badge\" style=\"vertical-align:center\" /></a>\r <a href=\"https://linkedin.com/in/\" target=\"_blank\"><img alt=\"\" src=\"https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=6319e5&style=for-the-badge\" style=\"vertical-align:center\" /></a>\r <a href=\"https://instagram.com/\" target=\"_blank\"><img alt=\"\" src=\"https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=6319e5\" style=\"vertical-align:center\" /></a></p>",
+  "main": "generate-latest-repo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamishFleming/HamishFleming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamishFleming/HamishFleming/issues"
+  },
+  "homepage": "https://github.com/HamishFleming/HamishFleming#readme",
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
+}
