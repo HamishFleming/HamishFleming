@@ -13,7 +13,7 @@ async function main() {
         params: { per_page: 100 }, // fetch up to 100 repos
     });
 
-    // Filter out archived repos
+    // Filter out archived repos.
     const activeRepos = res.data.filter((repo) => !repo.archived);
 
     if (activeRepos.length === 0) {
