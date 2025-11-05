@@ -7,7 +7,7 @@ const token = process.env.MY_GITHUB_TOKEN;
 
 async function main() {
     const res = await axios.get(`https://api.github.com/users/${username}/repos`, {
-        params: { sort: "updated", per_page: 1 },
+        params: { sort: "updated", per_page: 5 },
         headers: {
             Authorization: `token ${token}`,
         },
