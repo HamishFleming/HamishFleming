@@ -13,6 +13,8 @@ async function main() {
         },
     });
 
+    console.log("Fetched latest repository data from GitHub.");
+    console.log(res.data);
     const latestRepo = res.data[0].name;
     console.log(`Latest repo fetched: ${latestRepo}`);
 
