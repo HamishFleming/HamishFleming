@@ -36,7 +36,7 @@
 <th><h3 align=center>🎧 What I'm Currently Listening To:</h3></th>
 </tr>
 <tr>
-<td><img src="https://github-readme-stat-git-main-hamishflemings-projects.vercel.app/api/pin/?username=HamishFleming&repo=AWS-CloudFormation-Templates&show_owner=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=000" align="center" height="90" ></td>
+<td><img src="https://github-readme-stat-roan.vercel.app/api/pin/?username=HamishFleming&repo=my-newbot&show_owner=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=000&count_private=true" align="center" height="90" ></td>
 <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjqbmtekify3cpkryz7lvzjanu&cover_image=true&theme=novatorem&show_offline=false&background_color=000&bar_color=630fb8" align="center" height="90" ></td>
 </tr></table>
 
