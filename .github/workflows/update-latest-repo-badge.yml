@@ -1,37 +1,32 @@
-name: Update Latest Repo Badge
-env:
-  MY_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
+name: Update README
 on:
   schedule:
-    - cron: '0 * * * *'  # runs every hour
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
 jobs:
-  update-badge:
+  update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: 20
 
       - name: Install dependencies
-        run: npm install axios
+        run: npm install
 
-      - name: Generate latest repo badge
-        run: |
-          node generate-latest-repo.js
+      - name: Update README
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: node generate-latest-repo.js
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Update latest repo badge" || echo "No changes"
           git push
