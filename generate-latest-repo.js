@@ -3,7 +3,7 @@ import fs from "fs";
 
 const username = "HamishFleming";
 const readmePath = "./README.md";
-const token = process.env.GITHUB_TOKEN; // Must be set in your environment
+const token = process.env.MY_GITHUB_TOKEN; // Must be set in your environment
 
 async function main() {
     if (!token) throw new Error("GITHUB_TOKEN not set");
