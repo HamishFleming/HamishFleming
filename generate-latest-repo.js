@@ -11,6 +11,7 @@ async function main() {
     });
 
     const latestRepo = res.data[0].name;
+    console.log(`Latest repo fetched: ${latestRepo}`);
 
     // Read README
     let readme = fs.readFileSync(readmePath, "utf-8");
