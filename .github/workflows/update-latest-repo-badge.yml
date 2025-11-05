@@ -1,4 +1,7 @@
 name: Update Latest Repo Badge
+env:
+  MY_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 on:
   schedule:
