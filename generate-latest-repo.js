@@ -27,6 +27,11 @@ async function main() {
 
     const latestRepo = activeRepos[0].name;
     console.log("Latest repo:", latestRepo);
+    // bail if lastRepo is HamishFleming
+    if (latestRepo === "HamishFleming") {
+        console.log("Latest repo is README.md, exiting.");
+        return;
+    }
 
     // Read README and replace badge repo
     let readme = fs.readFileSync(readmePath, "utf-8");
