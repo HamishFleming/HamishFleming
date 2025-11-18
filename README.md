@@ -38,7 +38,7 @@
 
 ### 🚧 What I'm Currently Working On
 <p align="center">
-  <img src="https://github-readme-stat-roan.vercel.app/api/pin/?username=HamishFleming&repo=devctl&show_owner=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=000&count_private=true" height="90" />
+  <img src="https://github-readme-stat-roan.vercel.app/api/pin/?username=HamishFleming&repo=ai-scheduler-boilerplate&show_owner=true&title_color=61ffca&text_color=adbac7&icon_color=6319e5&border_color=8464c6&bg_color=000&count_private=true" height="90" />
 </p>
 
 ### 🎧 What I'm Currently Listening To
